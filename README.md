@@ -61,7 +61,7 @@ To automate the loan approval process using n8n workflow automation, reducing ma
 
 ## Workflow Architecture
 
-![n8n Workflow](n8n_project.png)
+![n8n Workflow](n8nproject.png)
 
 ---
 
@@ -152,7 +152,7 @@ Provides guidance on:
 
 ### Tax Saving Advisor Intent
 
-![Tax Saving](Tax_Saving.png)
+![Tax Saving](TaxSaving.png)
 
 ---
 
